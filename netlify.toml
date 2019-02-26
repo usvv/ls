@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://github.com/usvv/ls/raw/master/:splat"
+  status = 200
+  force = true
